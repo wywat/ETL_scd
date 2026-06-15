@@ -33,7 +33,7 @@ scd-experiment/
 The large experimental data files are not stored in this GitHub repository. They are available from Zenodo:
 
 ```text
-ZENODO_LINK_HERE
+https://sandbox.zenodo.org/uploads/513446
 ```
 
 ## 2. Data Organization
@@ -294,8 +294,4 @@ If you use this repository or the associated dataset, please cite the correspond
 ```text
 Citation information will be added after publication.
 ```
-
-## 9. License
-
-This repository is intended for academic research and reproducibility purposes. Please refer to the license file or the associated paper for detailed usage conditions.
 
