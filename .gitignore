@@ -1,0 +1,11 @@
+data/raw/
+data/base/
+data/events/
+data/baseline_scd2/
+data/proposed/
+*.parquet
+*.dat
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
